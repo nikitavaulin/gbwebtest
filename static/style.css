@@ -1,0 +1,21 @@
+body {
+background-color: lightblue;
+background: url("/static/img/pattern.png");
+font-family: "Arial";
+font-size: 20px;
+}
+
+h1 {
+font-size: 35px;
+}
+
+
+.dobrpozh {
+font-size: 25;
+color: #2F4F4F;
+}
+
+.imgstyle {
+box-shadow: 0 5px 10px #ccc;
+border-radius: 50px;
+}
